@@ -54,7 +54,7 @@ The dataset includes the following features:
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/your-username/PRODIGY_ML_02.git
+git clone https://github.com/bhumi27-lab/PRODIGY_ML_02.git
 ```
 
 ### **2️⃣ Navigate to the project directory**
