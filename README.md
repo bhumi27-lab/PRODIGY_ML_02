@@ -137,10 +137,7 @@ PRODIGY_ML_02/
 │
 ├── models/
 │   └── kmeans_model_task2.joblib
-│
-└── screenshots/
-    ├── elbow_method.png
-    └── clusters.png
+
 ```
 
 ---
